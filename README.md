@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniruddha0207
-- 👀 I’m interested in App development
+- 👀 I’m interested in App development, Analyst, Software Developer positions
 - 🌱 I’m currently learning DSA, Java, Flutter, Python, Django
 - 📫 How to reach me ...
 - My LinkedIn Profile --> https://www.linkedin.com/in/aniruddha-dey-897157236
